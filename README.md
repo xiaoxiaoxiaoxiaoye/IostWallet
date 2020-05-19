@@ -409,14 +409,14 @@ SDK link
 ## IOST wallet knowledge
 
 <div align="left">
-    <img src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589863134106.png">
+    <img src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589887717027.png">
 </div>
 
 
 ## IOST common questions
 
 <div align="left">
-    <img src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589863201176.png">
+    <img src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589887651085.jpeg">
 </div>
 
 
