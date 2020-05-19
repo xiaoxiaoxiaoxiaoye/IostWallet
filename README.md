@@ -415,7 +415,7 @@ SDK link
 
 ## IOST common questions
 
-<div align="left">
+<div align="left" class="question">
     <img src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589887651085.jpeg">
 </div>
 
